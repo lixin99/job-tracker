@@ -1,0 +1,13 @@
+{
+  "name": "job-tracker",
+  "version": "1.0.0",
+  "description": "神经科学招聘信息追踪",
+  "main": "index.html",
+  "scripts": {
+    "update": "node scripts/update.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
